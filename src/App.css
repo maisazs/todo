@@ -102,6 +102,9 @@ input, select {
 
 .options {
   display: flex;
+  justify-content: end;
+  align-items: center;
+  width: 111px;
 }
 
 .content {
