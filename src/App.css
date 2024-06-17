@@ -35,7 +35,6 @@ p {
 
 input {
   box-sizing: border-box;
-  width: 100%;
 }
 
 button {
@@ -89,6 +88,10 @@ button:hover {
   display: flex;
   justify-content: space-between;
   gap: 10px;
+}
+
+.todo-form div {
+  width: 100%;
 }
 
 input, select {
