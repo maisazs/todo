@@ -37,6 +37,10 @@ input, select {
   box-sizing: border-box;
 }
 
+select {
+  height: 39px;
+}
+
 button {
   cursor: pointer;
   color: #fff;
