@@ -33,7 +33,7 @@ p {
   font-size: 15px;
 }
 
-input {
+input, select {
   box-sizing: border-box;
 }
 
@@ -88,10 +88,6 @@ button:hover {
   display: flex;
   justify-content: space-between;
   gap: 10px;
-}
-
-.todo-form div {
-  width: 100%;
 }
 
 input, select {
