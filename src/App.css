@@ -35,6 +35,7 @@ p {
 
 input {
   box-sizing: border-box;
+  width: 100%;
 }
 
 button {
@@ -54,7 +55,7 @@ button:hover {
 #addBtn {
   font-size: 50px;
   color: #533581;
-  margin-top: 30px;
+  margin-top: 40px;
 }
 
 .todo-list {
@@ -87,6 +88,7 @@ button:hover {
 .todo-form {
   display: flex;
   justify-content: space-between;
+  gap: 10px;
 }
 
 input, select {
